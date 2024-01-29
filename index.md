@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am a team lead, software engineer and software architect. During work hours I work in the field of architecture management, vulnerability management, and open source management. My goal is to improve developer experience and deliver real business value leveraging the right technologies, creating stable, scalable, maintainable and secure solutions but ultimately just building good software. Off the clock I love learning new languages - both programming and spoken - and immersing myself in different cultures. Cultural diversity and global connectiviy is my credo.
