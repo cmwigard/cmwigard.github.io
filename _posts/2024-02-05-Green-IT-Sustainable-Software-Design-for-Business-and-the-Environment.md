@@ -1,4 +1,4 @@
-# Green IT: Sustainable Software Design for Business and the Environment (Revised)
+## Green IT: Sustainable Software Design for Business and the Environment (Revised)
 ## Introduction
 Sustainability and environmental protection have become vital business strategies among corporations, transcending mere ethical obligations. 'Green IT' has emerged as a critical element that captures both technological advancement and environmental stewardship. It aims to minimize the environmental impact of Information Technology (IT) while maximizing efficiency and performance. This article discusses the benefits of Green IT for enterprises and emphasizes the importance of focusing on resource efficiency throughout the software development process.
 
